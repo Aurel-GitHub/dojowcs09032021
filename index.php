@@ -20,7 +20,6 @@ $middleEarth;
 $middleEarth = "";
 echo $middleEarth;
 
-// Aurélien écrit Daniela dicte 
 echo
 $phrase = " Le porteur est : " . $porteur;
 $phrase .= " et " . $createur . " le recherche";

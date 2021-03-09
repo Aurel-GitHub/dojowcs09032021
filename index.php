@@ -38,3 +38,4 @@ $wizard = 'Gandalf';
 
 require 'wizard.php'; 
  
+
